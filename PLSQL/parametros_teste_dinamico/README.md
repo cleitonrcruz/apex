@@ -20,8 +20,3 @@ Facilitar testes com SQL dinâmico e simulações realistas de uso de parâmetro
 - SUPORTE
 - MARKETING
 - FINANCEIRO
-<<<<<<< HEAD
-- RELACIONAMENTO
-=======
-- RELACIONAMENTO
->>>>>>> 34b6cc9887ae39bd77287c6a9d4f8072f40bbece
